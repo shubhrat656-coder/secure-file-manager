@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# environment
+.env
+.env.local
+
+# build output
+dist/
+build/
+
+# uploads and logs
+uploads/
+*.log
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# local database and uploads
+data/
+backend/data/
